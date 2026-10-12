@@ -1,0 +1,14 @@
+div.info {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
